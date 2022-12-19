@@ -1,6 +1,7 @@
 import React from 'react';
 import '../hojas-de-estilo/Testimonio.css'
 
+// usar comoponentes funcionales y no de classes al menos generalmente 
 function Testimonio(props) {
   return(
     <div className = 'contenedor-testimonio'>

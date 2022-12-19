@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 import Testimonio from './componentes/Testimonio';
+//tenemos que importar el componentes y el css para poder usarlo aqui 
 
+
+// se usa 3 veces el mismo componente y le vamos pasando el valor en cada property
 function App() {
   return (
     <div className="App">
